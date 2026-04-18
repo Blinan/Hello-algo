@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/Mersenne-prime/build",
+  "command": "/usr/bin/g++   -g -std=gnu++23 -o CMakeFiles/Exe.dir/main.cpp.o -c /home/tammy/repos/Mersenne-prime/main.cpp",
+  "file": "/home/tammy/repos/Mersenne-prime/main.cpp",
+  "output": "CMakeFiles/Exe.dir/main.cpp.o"
+}
+]

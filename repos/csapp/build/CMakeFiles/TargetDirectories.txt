@@ -1,0 +1,4 @@
+/home/tammy/repos/csapp/build/CMakeFiles/Mylib.dir
+/home/tammy/repos/csapp/build/CMakeFiles/exe.dir
+/home/tammy/repos/csapp/build/CMakeFiles/edit_cache.dir
+/home/tammy/repos/csapp/build/CMakeFiles/rebuild_cache.dir

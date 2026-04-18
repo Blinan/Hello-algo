@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/cpp-primer/inheritance/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/exe.dir/main.cpp.o -c /home/tammy/repos/cpp-primer/inheritance/main.cpp",
+  "file": "/home/tammy/repos/cpp-primer/inheritance/main.cpp",
+  "output": "CMakeFiles/exe.dir/main.cpp.o"
+}
+]

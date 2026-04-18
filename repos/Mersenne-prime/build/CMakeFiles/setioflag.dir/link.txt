@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/setioflag.dir/setioflag.cpp.o -o setioflag 

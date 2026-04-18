@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/tammy/repos/csapp/build",
+  "command": "/usr/bin/g++  -I/home/tammy/repos/csapp/include -g -std=gnu++11 -o CMakeFiles/Mylib.dir/src/show_byte.cc.o -c /home/tammy/repos/csapp/src/show_byte.cc",
+  "file": "/home/tammy/repos/csapp/src/show_byte.cc",
+  "output": "CMakeFiles/Mylib.dir/src/show_byte.cc.o"
+},
+{
+  "directory": "/home/tammy/repos/csapp/build",
+  "command": "/usr/bin/g++  -I/home/tammy/repos/csapp/include -g -std=gnu++11 -o CMakeFiles/exe.dir/main.cc.o -c /home/tammy/repos/csapp/main.cc",
+  "file": "/home/tammy/repos/csapp/main.cc",
+  "output": "CMakeFiles/exe.dir/main.cc.o"
+}
+]

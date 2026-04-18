@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/database/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/mysql/connector-c++-9.6.0/include -g -std=gnu++11 -o CMakeFiles/MySQLDemoe.dir/connector-cpp.cpp.o -c /home/tammy/repos/database/connector-cpp.cpp",
+  "file": "/home/tammy/repos/database/connector-cpp.cpp",
+  "output": "CMakeFiles/MySQLDemoe.dir/connector-cpp.cpp.o"
+}
+]

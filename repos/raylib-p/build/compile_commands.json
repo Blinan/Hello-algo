@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/raylib-p/build",
+  "command": "/usr/bin/g++  -I/home/tammy/ins/raygui-4.0/src -I/home/tammy/repos/raylib-p/ins -g -std=gnu++11 -o CMakeFiles/exe.dir/main.cpp.o -c /home/tammy/repos/raylib-p/main.cpp",
+  "file": "/home/tammy/repos/raylib-p/main.cpp",
+  "output": "CMakeFiles/exe.dir/main.cpp.o"
+}
+]

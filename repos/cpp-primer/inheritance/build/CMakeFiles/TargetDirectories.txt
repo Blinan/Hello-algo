@@ -1,0 +1,3 @@
+/home/tammy/repos/cpp-primer/inheritance/build/CMakeFiles/exe.dir
+/home/tammy/repos/cpp-primer/inheritance/build/CMakeFiles/edit_cache.dir
+/home/tammy/repos/cpp-primer/inheritance/build/CMakeFiles/rebuild_cache.dir

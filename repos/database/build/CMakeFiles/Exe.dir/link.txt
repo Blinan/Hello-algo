@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Exe.dir/test.cc.o -o Exe 

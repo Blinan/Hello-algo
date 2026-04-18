@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/curl-study/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/exe.dir/example.cpp.o -c /home/tammy/repos/curl-study/example.cpp",
+  "file": "/home/tammy/repos/curl-study/example.cpp",
+  "output": "CMakeFiles/exe.dir/example.cpp.o"
+}
+]

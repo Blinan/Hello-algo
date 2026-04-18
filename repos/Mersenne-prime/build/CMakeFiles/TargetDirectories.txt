@@ -1,0 +1,3 @@
+/home/tammy/repos/Mersenne-prime/build/CMakeFiles/Exe.dir
+/home/tammy/repos/Mersenne-prime/build/CMakeFiles/edit_cache.dir
+/home/tammy/repos/Mersenne-prime/build/CMakeFiles/rebuild_cache.dir

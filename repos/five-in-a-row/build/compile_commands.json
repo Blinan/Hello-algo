@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/five-in-a-row/build",
+  "command": "/usr/bin/g++  -I/home/tammy/repos/five-in-a-row/include -g -std=gnu++11 -o CMakeFiles/exe.dir/main.cpp.o -c /home/tammy/repos/five-in-a-row/main.cpp",
+  "file": "/home/tammy/repos/five-in-a-row/main.cpp",
+  "output": "CMakeFiles/exe.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/rand.dir/permutations_i.cc.o -o rand 

@@ -1,0 +1,3 @@
+/home/tammy/repos/database/build/CMakeFiles/MySQLDemoe.dir
+/home/tammy/repos/database/build/CMakeFiles/edit_cache.dir
+/home/tammy/repos/database/build/CMakeFiles/rebuild_cache.dir

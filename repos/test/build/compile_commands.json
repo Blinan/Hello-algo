@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/test/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/permutations_i.dir/permutations_i.cc.o -c /home/tammy/repos/test/permutations_i.cc",
+  "file": "/home/tammy/repos/test/permutations_i.cc",
+  "output": "CMakeFiles/permutations_i.dir/permutations_i.cc.o"
+}
+]

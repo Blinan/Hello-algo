@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/tammy/repos/data-sort/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/exe.dir/main.cpp.o -c /home/tammy/repos/data-sort/main.cpp",
+  "file": "/home/tammy/repos/data-sort/main.cpp",
+  "output": "CMakeFiles/exe.dir/main.cpp.o"
+}
+]
