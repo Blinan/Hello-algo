@@ -1,2 +1,2 @@
-# Hello-algo
-programs in Hello-algo
+# Hello-programs
+programs in Hello-algo and so on
