@@ -1,1 +1,0 @@
-/usr/bin/gcc -g CMakeFiles/calc2.dir/calc2.c.o -o calc2 

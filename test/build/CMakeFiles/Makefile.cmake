@@ -7,10 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/tammy/repos/test/CMakeLists.txt"
-  "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
-  "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.28.3/CMakeSystem.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
@@ -29,6 +25,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake"
   "/usr/share/cmake-3.28/Modules/Platform/Linux.cmake"
   "/usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake"
+  "/workspaces/Hello-programs/test/CMakeLists.txt"
+  "CMakeFiles/3.28.3/CMakeCCompiler.cmake"
+  "CMakeFiles/3.28.3/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.28.3/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

@@ -130,8 +130,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/tammy/repos/test/build",
-		"source" : "/home/tammy/repos/test"
+		"build" : "/workspaces/Hello-programs/test/build",
+		"source" : "/workspaces/Hello-programs/test"
 	},
 	"version" : 
 	{
